@@ -1,0 +1,1 @@
+/home/rosvi/.config/fish/completions/pkcon.fish
